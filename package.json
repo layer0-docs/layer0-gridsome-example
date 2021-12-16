@@ -4,7 +4,7 @@
     "build": "gridsome build",
     "develop": "gridsome develop",
     "explore": "gridsome explore",
-    "deploy": "layer0 deploy"
+    "layer0:deploy": "layer0 deploy"
   },
   "dependencies": {
     "gridsome": "^0.7.0"
